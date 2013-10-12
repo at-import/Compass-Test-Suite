@@ -1,0 +1,1 @@
+## Contributing to the compass test suite

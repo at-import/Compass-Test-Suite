@@ -1,0 +1,9 @@
+/**
+ * A simple test to ensure we are pulling in code.
+ */
+
+@import 'testing';
+
+body {
+  @extend %testing-framework;
+}

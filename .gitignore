@@ -1,0 +1,13 @@
+# Gem Files
+*.gem
+
+# Bundler Files
+.bundle
+vendor/bundle
+Gemfile.lock
+
+# Testing Files
+test/test
+
+# Sass Files
+.sass-cache

@@ -1,4 +1,4 @@
-compass-test-suite
+Compass Test Suite
 ==================
 
-A generic test suite for Compass extensions
+A simple pattern to create tests for a compass extension.
